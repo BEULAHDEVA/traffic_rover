@@ -1,0 +1,3 @@
+interval_start_s,interval_end_s,lane,car,motorcycle,bus,truck,total,flow_veh_per_hr,avg_vehicles_in_zone,peak_vehicles_in_zone,density_veh_per_km,density_level
+0.0,3.4,Lane 1,11,0,1,1,13,13929,6.9,10,,High
+0.0,3.4,Lane 2,10,0,0,0,10,10714,7.18,9,,High
